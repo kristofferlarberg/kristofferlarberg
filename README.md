@@ -6,4 +6,4 @@ I’m a Stockholm based developer who likes building interfaces and handling dat
 
 🔵 Doing a course in different aspects of the backend, trying to gain basic knowledge.
 
-🔵 Developing a little note web app in Vue.js.
+🔵 A little [note web app](https://github.com/kristofferlarberg/post-it) built with Vue.js.
